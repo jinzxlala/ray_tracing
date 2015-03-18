@@ -1,0 +1,4 @@
+bin中为程序和读入数据及纹理图片
+lib为空，其实应为opencv库
+source中为源代码
+final.gif是最终生成的运动场景图
